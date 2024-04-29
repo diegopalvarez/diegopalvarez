@@ -3,4 +3,4 @@
 * I love coding with JavaScript, Python and C, and here are some of my most recent projects
 * I'm always looking for new things to learn, and I love researching and trying out the latest news in tech
 
-If you find them interesting, feel free to reach out to [me](linkedin.com/in/diego-perez-alvarez)!
+If you find them interesting, feel free to reach out to [me](https://www.linkedin.com/in/diego-perez-alvarez)!
